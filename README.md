@@ -12,7 +12,7 @@ A **Memory** is a Post having pointer to original post.
 
 A **comment** is posted by a specific user or a page on a single post. All the Users, Pages and Posts in the application are Objects having IDs.
 
-## Required Functionality:
+## Functionality:
 
 * Set Current User
 * Ask user about his ID and set him as current user of application. Now everything that we see in the system will be view of this user.
